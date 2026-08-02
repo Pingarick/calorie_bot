@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local runtime data — never commit per-user data or logs
+diary.db
+bot.log
